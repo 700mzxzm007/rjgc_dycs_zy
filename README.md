@@ -1,1 +1,3 @@
 test.cpp是运行的文件，其他的都是test.cpp需要调用的头文件。
+getmagnitudearray.h是一个生成随机数组的算法，用来生成大规模输入的数组。
+correctresult.h是用LeetCode中对最大连续子数组和的一个题解，用来作为大规模数组测试时的一个标准答案。
